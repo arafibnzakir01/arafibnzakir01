@@ -1,4 +1,4 @@
-# -arafibnzakir01
+# arafibnzakir01
 # Hi there, I'm Araf Ibn Zakir 👋
 
 ### Aspiring Data Analyst | Business Management & ICT Student
