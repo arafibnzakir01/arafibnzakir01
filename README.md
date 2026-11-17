@@ -1,4 +1,3 @@
-# arafibnzakir01
 # Hi there, I'm Araf Ibn Zakir 👋
 
 ### Aspiring Data Analyst | Business Management & ICT Student
@@ -26,7 +25,7 @@ I am a dedicated **Data Analytics** enthusiast with a background in **Business M
 ---
 
 ### 🎓 Education & Training
-- **Diploma in ICT (Data Analytics Focus)** – National Youth Development Institute *(Ongoing)*
+- **Diploma in ICT (Data Analytics Focus)** – National Youth Development Institute 
 - **BBA (Honours) in Management** – Char Fasson Government College, National University *(2nd Year)*
 
 ---
@@ -34,4 +33,4 @@ I am a dedicated **Data Analytics** enthusiast with a background in **Business M
 ### 📫 Contact Me
 - **Email:** irfanaraf80@gmail.com
 - **Phone / WhatsApp:** +880 1615-205511
-- **Location:** Dhaka / Bhola, Bangladesh
+- **Location:** Dhaka, Bangladesh
